@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.detaxxhold.twa",
+        "sha256_cert_fingerprints": ["B8:FA:2B:8F:DC:26:56:B5:B2:81:71:50:81:A3:7F:EE:55:6B:A8:C2:5D:E9:3E:19:A8:BC:37:5D:F0:73:CA:C3"]
+      }
+    }]
+
